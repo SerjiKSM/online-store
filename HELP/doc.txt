@@ -1,0 +1,8 @@
+clone project - https://github.com/SerjiKSM/online-store.git
+import sql dump from folder HELP
+set project and tomcat
+
+tools:
+Intellij IDEA
+MySQL
+Tomcat
